@@ -13,7 +13,7 @@ Código em ./go
 Comando para executar o container:
 
 ```sh 
-docker run --rm pauloandresoares/codeeducation:latest
+docker run --rm joaopauloln7/codeeducation:latest
 ```
 
 
